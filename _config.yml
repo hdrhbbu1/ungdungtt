@@ -1,9 +1,9 @@
 # Site settings
 title: "Mẹo vặt nhân gian"
-url-title: "Mẹo vặt nhân gian"
-description: "mẹo vặt gia đình, mẹo vặt hàng ngày, mẹo vặt nhân gian."
+url-title: "Câu chuyện Mẹo vặt"
+description: "Đoàn Bình"
 paginate: 100
-url: "http://meovatnhangian.com"
+url: "http://cauchuyentinhtoi.net"
 permalink: /:year/:month/:title/
 future: false
 defaults:
